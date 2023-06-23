@@ -1,1 +1,2 @@
-import RJS.cpython
+import RJS
+Main().menu()
